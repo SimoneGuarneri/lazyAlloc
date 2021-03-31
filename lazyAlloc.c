@@ -58,7 +58,8 @@ void* lazyAlloc(size_t size){
 
     void *p = xmalloc(size);
     updatePointers(p);
-
+    
+    return p;
 }
 
 void freeAllPointers(){
