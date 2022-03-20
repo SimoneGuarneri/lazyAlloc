@@ -39,4 +39,4 @@ regardless of where they were allocated
 ### Others 
 - **xmalloc(size_t size):** same as _malloc_ but with automatic check
 
-- **xrealloc(size_t size):** same as _malloc_ but with automatic check
+- **xrealloc(size_t size):** same as _realloc_ but with automatic check
