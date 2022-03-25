@@ -1,6 +1,6 @@
 # Lazy Alloc
 
-Lazy Alloc is a minimalist library for C dynamic memory allocation
+_**Lazy Alloc is a minimalist library for C dynamic memory allocation**_
 
 ![lazyMalloc](https://i.imgur.com/E5sVfBu.png)
 
